@@ -3,7 +3,7 @@
 **Pizza-Menu** is a React project from [Jonas Schmedtmann Udemy Course](https://www.udemy.com/course/the-ultimate-react-course).
 This project is focused on React basics.
 
-You can test all effects on the [Pizza-Menu demo page](https://luk-marshal.github.io/Pizza-Menu/).
+You can test all effects on the [Pizza-Menu demo page](https://luk-marshal-pizza-menu.netlify.app).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
